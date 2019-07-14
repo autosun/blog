@@ -5,4 +5,4 @@
 layout: default
 ---
 
-hi
+hi, 你好
